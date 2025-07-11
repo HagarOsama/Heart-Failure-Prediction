@@ -78,3 +78,8 @@ This project presents a complete machine learning pipeline for predicting heart 
 - Scikit-learn (models, metrics, preprocessing)
 - Jupyter Notebook
 
+---
+
+##  License
+This project is licensed under the MIT License.
+
